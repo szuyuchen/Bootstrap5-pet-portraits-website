@@ -30,8 +30,8 @@ a {
 }
 
 section {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 130px;
+  padding-bottom: 130px;
 }
 
 /* Navbar area */
@@ -124,16 +124,8 @@ form .form-control {
 }  
 
 /* Footer area */
-.footer-top {
+.footer-area {
   background-color: var(--dark);
-  padding: 30px;
-  padding-bottom: 20px;
-}
-
-.footer-top a {
-  color: var(--body);
-}
-
-.footer-top a:hover {
-  color: #fff;
+  padding: 30px 30px;
+  text-align: center;
 }
