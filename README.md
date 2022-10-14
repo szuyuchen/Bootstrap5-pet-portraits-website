@@ -18,3 +18,8 @@ https://szuyuchen.github.io/Bootstrap5-pet-portraits-website/
 
 - Bootstrap 5 : https://getbootstrap.com/
 
+- Emoji Chart: https://www.quackit.com/character_sets/emoji/emoji_v3.0/unicode_emoji_v3.0_characters_all.cfm
+
+- Dummyimage: https://dummyimage.com/
+
+- Boxicons: https://boxicons.com/
