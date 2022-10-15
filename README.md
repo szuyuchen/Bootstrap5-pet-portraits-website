@@ -8,6 +8,8 @@
 
 #### 10/14 About, Portraits, How-to, Reviews, Contact area checked.
 
+#### 10/15 Navbar area added IG option.
+
 <img src="https://github.com/szuyuchen/Bootstrap5-pet-portraits-website/blob/main/sample-image.png?raw=true" width=500>
 
 ### Page link:
