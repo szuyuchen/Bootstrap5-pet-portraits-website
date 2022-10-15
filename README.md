@@ -10,7 +10,7 @@
 
 #### 10/15 Navbar area added IG option.
 
-<img src="https://github.com/szuyuchen/Bootstrap5-pet-portraits-website/blob/main/sample-image.png?raw=true" width=500>
+<img src="https://github.com/szuyuchen/Bootstrap5-pet-portraits-website/blob/main/sample-image2.png?raw=true" width=500>
 
 ### Page link:
 
