@@ -20,6 +20,8 @@ https://szuyuchen.github.io/Bootstrap5-pet-portraits-website/
 
 - Boxicons: https://boxicons.com/
 
+- Formspree: https://formspree.io/
+
 ### Memo: 
 
 #### 10/13 Navbar and Hero area completed.
