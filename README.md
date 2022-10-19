@@ -4,7 +4,7 @@
 
 - Use Bootstrap5 to build a pet portraits website.
 
-<img src="https://github.com/szuyuchen/Bootstrap5-pet-portraits-website/blob/main/sample-image2.png?raw=true" width=500>
+<img src="https://github.com/szuyuchen/Bootstrap5-pet-portraits-website/blob/main/sample-image3.png?raw=true" width=500>
 
 ### Page link:
 
