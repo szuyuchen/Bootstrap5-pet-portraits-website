@@ -28,3 +28,5 @@ https://szuyuchen.github.io/Bootstrap5-pet-portraits-website/
 
 #### 10/15 Navbar and IG area completed.
 
+#### 10/19 Modified text size and created Contact Form that emails me.
+
